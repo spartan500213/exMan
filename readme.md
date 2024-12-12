@@ -1,0 +1,1 @@
+#### **exMan** is a project dedicated to develop an simple enough ==**CLI Expense Manager**== using **C/C++**. The project is in its intial development stages and this readme is intended to get updated in the future ####
